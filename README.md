@@ -29,4 +29,4 @@ My test task, I tried to keep within the minimum of the code, and to make it eas
 
 
 [license-shield]: https://img.shields.io/github/license/RTSTALER/NanoSurvey.svg?style=flat-square
-[license-url]: https://github.com/wintexpro/echpochmak/blob/master/LICENSE.txt
+[license-url]: https://github.com/wintexpro/echpochmak/blob/master/LICENSE
