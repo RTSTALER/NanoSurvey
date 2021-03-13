@@ -24,6 +24,10 @@
 
 My test task, I tried to keep within the minimum of the code, and to make it easy to read, enjoy
 
+Tech. Stack:
+
+ASP .NET Core, PostgreSQL,
+
 ### How to Start
 
 * Change the connection string inside appsettings.json (I'm sorry, I could not build a docker-compose file for simplified launch of the database and application, due to problems with Windows, I can fix it if necessary)
