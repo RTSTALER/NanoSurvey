@@ -27,6 +27,7 @@ My test task, I tried to keep within the minimum of the code, and to make it eas
 ### How to Start
 
 * Change the connection string inside appsettings.json (I'm sorry, I could not build a docker-compose file for simplified launch of the database and application, due to problems with Windows, I can fix it if necessary)
+* ```Update-Database```  run EF Core migrations
 * I was not sure that pre-filling is necessary here, so I just put the TestData.sql file with some data
 * ```docker-compose up -d``` 
 * Start APS NET Core application
