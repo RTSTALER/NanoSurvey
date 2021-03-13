@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/RTSTALER/NanoSurvey">
-    <img src="https://nanosurvey.com/wp-content/themes/nano-survery/dist/images/logo.png" alt="Logo" width="300" height="300">
+    <img src="https://nanosurvey.com/wp-content/themes/nano-survery/dist/images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">NanoSurvey</h3>
@@ -25,3 +25,8 @@
 My test task, I tried to keep within the minimum of the code, and to make it easy to read, enjoy
 
 ### How to Start
+
+
+
+[license-shield]: https://img.shields.io/github/license/RTSTALER/NanoSurvey.svg?style=flat-square
+[license-url]: https://github.com/wintexpro/echpochmak/blob/master/LICENSE.txt
