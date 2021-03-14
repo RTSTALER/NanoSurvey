@@ -64,7 +64,7 @@ Response example:
 
 #### POST /api/Survey/ Send Answer
 
-Recive body:
+Receive body:
 
 ```json
 {
