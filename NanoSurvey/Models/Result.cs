@@ -11,6 +11,7 @@ namespace NanoSurvey.Models
         public int userId { get; set; }
         public int QuestionId { get; set; }
         public int AnswerId { get; set; }
+        public string Timestamp { get; set; }
         public Answer answer { get; set; }
         public Question question { get; set; }
     }
