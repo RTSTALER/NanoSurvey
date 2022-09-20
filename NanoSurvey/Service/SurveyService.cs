@@ -36,7 +36,7 @@ namespace NanoSurvey.Service
             result.AnswerId = request.AnswerId;
             result.QuestionId = request.QuestionId;
             result.userId = request.UserId;
-            result.Timestamp = new DateTime().ToString("yyyyMMddHHmmssffff");
+            result.Timestamp = DateTime.Now.ToString("yyyyMMddHHmmssffff");
             return result;
         }
 
